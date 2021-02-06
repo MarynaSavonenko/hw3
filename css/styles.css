@@ -61,6 +61,12 @@ margin-right: 50px;
     padding-bottom: 32px;
   }
 
+  .contacts-footer{
+    font-size: 14px;
+  line-height: 1.71;
+  color: rgba(255, 255, 255, 0.6);
+  display: inline;
+  }
 
 .contacts a:hover, .contacts a:focus{color: var(--accent-color);}
 .contacts-list-header{
@@ -247,16 +253,6 @@ margin-top: 20px;
 
 }
 
-
-
-
-
-.contacts-footer{
-  font-size: 14px;
-line-height: 1.71;
-color: rgba(255, 255, 255, 0.6);
-display: inline;
-}
 
 .adress:hover, .adress:focus{color: var(--accent-color);}
 .button{
